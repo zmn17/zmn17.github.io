@@ -1,4 +1,4 @@
-import Switch from "./Switch";
+import Switch from "./components/Switch";
 import VideoCam from "./components/VideoCam";
 import styled from "styled-components";
 

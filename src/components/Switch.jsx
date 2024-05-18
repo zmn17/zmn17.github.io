@@ -1,4 +1,3 @@
-// Switch.js
 import { useState, useEffect } from "react";
 import "./Slider.css";
 import { FaUnlock } from "react-icons/fa";
