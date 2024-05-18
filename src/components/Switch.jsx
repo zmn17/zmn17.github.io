@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import "./Slider.css";
+import "../Slider.css";
 import { FaUnlock } from "react-icons/fa";
 import { FaLock } from "react-icons/fa6";
 import { database } from "./config.js";
